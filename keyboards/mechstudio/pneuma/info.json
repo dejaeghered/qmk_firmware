@@ -1,0 +1,12 @@
+{
+  "keyboard_name": "Pneuma", 
+  "url": "https://mech.studio/projects/pneuma/", 
+  "maintainer": "dejaeghered", 
+  "width": 15, 
+  "height": 5, 
+  "layouts": {
+    "LAYOUT_standard": {
+      "layout": []
+    }
+  }
+}
