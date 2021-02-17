@@ -35,6 +35,15 @@
 #define MATRIX_COL_PINS {F0,F1,F4,F5,F6,F7,D5,D3,D2,D1,D0,C6,C7,B6,B5,B4,D7}
 #define UNUSED_PINS {}
 
+/* indicator leds */
+#define LED_NUM_LOCK_PIN D6
+#define LED_CAPS_LOCK_PIN D4
+#define LED_SCROLL_LOCK_PIN E2
+#define LED_PIN_ON_STATE 0
+
+/* backlight */
+#define BACKLIGHT_PIN B7
+
 /* COL2ROW, ROW2COL*/
 #define DIODE_DIRECTION COL2ROW
 
